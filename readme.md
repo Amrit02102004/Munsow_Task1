@@ -80,14 +80,16 @@ Registers a new user.
 
 - **Images**
 Sample request body images:
-  ![1.png](PostMan Result/1.png)
-  ![2.png](PostMan Result/2.png)
-  ![3.png](PostMan Result/3.png)
-  ![4.png](PostMan Result/4.png)
-  ![5.png](PostMan Result/5.png)
-  ![6.png](PostMan Result/6.png)
-  ![7.png](PostMan Result/7.png)
-  ![8.png](PostMan Result/8.png)
-  ![9.png](PostMan Result/9.png)
-  ![10.png](PostMan Result/10.png)
+
+  ![1](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/5123a3b9-c03d-4003-b2d1-1897e2a14d40)
+  ![2](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/a93894ff-b298-4344-948e-800e5241976f)
+  ![3](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/1cd6c8fd-1427-401e-af83-3303574a2812)
+  ![4](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/6a168971-c245-40f6-9a93-ffcb6c84f6fb)
+  ![5](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/df021b27-6bbd-4038-b9a4-1dcee9b6e066)
+  ![6](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/874ee57d-9ec6-4014-b747-22fa20085b47)
+  ![7](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/06048117-16a5-416a-8fef-7c5323135265)
+  ![8](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/029f747a-22b0-40fb-9b2e-e949507f7aad)
+  ![9](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/66785af3-ec72-4559-952f-8f60d8342d64)
+  ![10](https://github.com/Amrit02102004/Munsow_Task1/assets/114827768/5085e5eb-eed4-4d97-8feb-39eab68ac1a5)
+
 
